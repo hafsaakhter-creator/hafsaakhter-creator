@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there!!👋
 
 🎨 **Graphic Design Student | Aspiring AI & Machine Learning Professional**
 
@@ -53,6 +53,5 @@ I'm interested in the intersection of design, artificial intelligence, and techn
 *Always learning, creating, and exploring what's possible when creativity meets technology.*
 
 
-## 📈 Contribution Activity
-
+## 📊 GitHub Stats
 ![Hafsa's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafsaakhter-creator&theme=minimal)
