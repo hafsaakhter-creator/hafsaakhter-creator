@@ -53,6 +53,6 @@ I'm interested in the intersection of design, artificial intelligence, and techn
 *Always learning, creating, and exploring what's possible when creativity meets technology.*
 
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsaakhter-creator&show_icons=true&theme=default)
+![Hafsa's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafsaakhter-creator&theme=minimal)
